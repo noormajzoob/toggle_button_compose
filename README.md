@@ -17,4 +17,4 @@ Simple animated toggle button using jetpack compose.
 >                   )
 
 ## Screen Record
-![](toggle_screen_rec.mp4)
+![video](toggle_screen_rec.mp4)
